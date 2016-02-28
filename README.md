@@ -1,0 +1,2 @@
+# PML_PredictionAssignmentWriteup
+Pracital Machine Learning Prediction Assignment Writeup
